@@ -1,0 +1,13 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.7",
+        "google/apiclient": "^2.18",
+        "microsoft/microsoft-graph": "^2.18"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true,
+            "tbachert/spi": true
+        }
+    }
+}
